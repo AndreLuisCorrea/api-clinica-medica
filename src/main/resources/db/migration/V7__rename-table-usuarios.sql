@@ -1,0 +1,1 @@
+rename table usarios to usuarios;
